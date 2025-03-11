@@ -1,5 +1,5 @@
 echo off
 cls
-cd "C:\Users\Joel\Documents\Josh_coding_projects\JavaProjects\guessgame\"
+cd "C:\Users\Josh\Documents\Josh_coding_projects\JavaProjects\guessgame\"
 java guessGame.java
-cd "C:\Users\Joel"
+cd "C:\Users\Josh"
